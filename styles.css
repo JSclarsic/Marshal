@@ -6,7 +6,7 @@ p {
 
 /* creating a background image on the margins of the page - this was hard to figure out! */
 html {
-  background-image: url("background.jpg");
+  background-image: url("background2.jpg");
   background-size: cover;
 }
 
